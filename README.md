@@ -28,4 +28,4 @@ A: All your saved data will be permanently deleted. We do not store any data on 
 - **Bug reports & feature requests:** [Email us](mailto:contact@auledgerapp.com)
 
 ---
-📌 **Support Page:** [https://github.com/proteins22/gold-portfolio-support](https://github.com/proteins22/gold-portfolio-support)
+📌 **Support Page:** [https://github.com/proteins22/gold-portfolio-support](https://github.com/proteins22/auledger-support)
