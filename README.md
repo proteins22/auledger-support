@@ -12,7 +12,6 @@ A: In the app, go to "Add to Collection" and enter the details of your gold item
 A: We use real-time market data from trusted sources.
 
 **Q: Does AuLedger store my photos? What happens if I delete them from my iPhone?**
-
 A: Yes, AuLedger creates and stores local copies of the photos you select for your collection. This means: 
 - Your collection remains intact even if you delete the original photos from your iPhone’s library.
 - However, these copies will occupy storage on your device.
@@ -28,4 +27,5 @@ A: All your saved data will be permanently deleted. We do not store any data on 
 - **Bug reports & feature requests:** [Email us](mailto:contact@auledgerapp.com)
 
 ---
-📌 **Support Page:** [https://github.com/proteins22/gold-portfolio-support](https://github.com/proteins22/auledger-support)
+📌 **Support Page:** [https://github.com/proteins22/auledger-support](https://proteins22.github.io/auledger-support/)
+📌 **Privacy Policy** [https://github.com/proteins22/auledger-support](https://proteins22.github.io/auledger-support/PrivacyPolicy)
