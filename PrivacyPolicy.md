@@ -21,7 +21,7 @@ Thank you for using **AuLedger** ("the App"). This Privacy Policy explains how w
 - When you purchase a subscription, the transaction is processed by **Apple** through the **App Store**.
 - We maintain a record of your **subscription status**, but we do **not** store your payment information.
 - **Apple's privacy policy** governs the processing of purchase transactions.
-- Previous purchasers of the app prior to **March 17, 2025** are automatically granted **premium access** with no subscription required.
+- Previous purchasers of the app prior to **March 31, 2025** are automatically granted **premium access** with no subscription required.
 
 ## 4. Local Data Storage
 - The App stores all your **gold portfolio information** **locally** on your device (via secure storage mechanisms).
